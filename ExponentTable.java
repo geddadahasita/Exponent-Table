@@ -4,7 +4,7 @@ public class ExponentTable {
 	
 	public static void main(String[] args) {
 		
-		//create a Scanner 
+		//create a Scanner which takes a user input and stores it as an int
 		Scanner scn = new Scanner(System.in);
 		System.out.print("Enter the size (number of columns) of the exponent chart: ");
 		int columnSize = scn.nextInt();
