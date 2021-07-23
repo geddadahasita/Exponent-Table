@@ -1,0 +1,10 @@
+# By default, ignore all hidden files
+.*
+
+# Never ignore the following hidden files
+!.gitignore
+!.gitattributes
+
+# Ignore Gradle build output directory
+build
+
