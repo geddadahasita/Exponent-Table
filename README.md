@@ -1,2 +1,2 @@
 # Projects 
-These are a collection of projects from my high school computer science courses.
+These are a collection of projects from my computer science courses.
