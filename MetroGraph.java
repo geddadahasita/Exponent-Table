@@ -335,12 +335,6 @@ public class MetroGraph {
         LinkedHashSet<MetroNode> test = metroGraph.getConnectedStations(metroStations.getStationsInfos().get(0));
         System.out.println(test);
 
-        // while (graph.redHead != null) {
-        // System.out.println(graph.toString(graph.redHead));
-        // // graph.redHead = graph.redHead.next;
-
-        // }
-
     }
 
 }
